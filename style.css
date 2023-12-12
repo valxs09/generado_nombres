@@ -1,0 +1,37 @@
+body{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        background-color: #c090c9!important;
+        font-family: 'Inconsolata', monospace;
+    
+}
+div{
+    margin-top: 20px;
+    padding: 20px;
+    width: 450px;
+    height: 600px;
+    background-color: rgb(219, 85, 185) !important;
+    border-radius: 10px;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+ #btn{
+    
+    border: 1px solid black !important;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+ #form{
+    margin-top: 10px;
+}
